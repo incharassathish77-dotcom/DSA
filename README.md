@@ -11,11 +11,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
@@ -40,5 +42,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
