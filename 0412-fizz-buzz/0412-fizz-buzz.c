@@ -3,20 +3,23 @@
  */
 
 char** fizzBuzz(int n, int* returnSize) {
-    *returnSize = n;  // 1. Crucial: Set the size of the array!
+    *returnSize = n;
     char **arr = (char **)malloc(n * sizeof(char*));
     
     for (int i = 0; i < n; i++) {
-        int num = i + 1; // 2. Check the current number, not n
+        int num = i + 1;
         
         if (num % 3 == 0 && num % 5 == 0) {
-            arr[i] = "FizzBuzz";
+            arr[i] = (char *)malloc(9 * sizeof(char));
+            strcpy(arr[i], "FizzBuzz");
         }
         else if (num % 3 == 0) {
-            arr[i] = "Fizz";
+            arr[i] = (char *)malloc(5 * sizeof(char));
+            strcpy(arr[i], "Fizz");
         }
         else if (num % 5 == 0) {
-            arr[i] = "Buzz";
+            arr[i] = (char *)malloc(5 * sizeof(char));
+            strcpy(arr[i], "Buzz");
         }
         else {
             // Count digits for the number string
