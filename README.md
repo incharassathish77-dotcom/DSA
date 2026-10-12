@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/incharassathish77-dotcom/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -30,5 +31,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/incharassathish77-dotcom/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
