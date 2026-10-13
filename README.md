@@ -22,7 +22,7 @@ This README contains a manually maintained introduction and an automatically gen
 
 ---
 
-## Problem Index (auto-generated)
+## Problem Index 
 
 <!-- AUTO-GENERATED-CONTENT:START -->
 
