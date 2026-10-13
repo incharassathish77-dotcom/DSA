@@ -1,8 +1,8 @@
-# LeetCode DSA Solutions in C
+# LeetCode DSA Solutions 
 
-A personal collection of LeetCode practice solutions implemented in C. This repository contains short, focused solutions for algorithmic problems I solve while practicing data structures and algorithms.
+A personal collection of LeetCode practice solutions . This repository contains short, focused solutions for algorithmic problems I solve while practicing data structures and algorithms.
 
-- Language: C
+
 - Source: LeetCode
 
 This README contains a manually maintained introduction and an automatically generated problem index below. The index is regenerated each time you push new problem folders to the repository.
@@ -11,12 +11,12 @@ This README contains a manually maintained introduction and an automatically gen
 
 ## Overview
 
-- Language: C
+
 - Focus: Algorithmic problem solving
 - Source: LeetCode practice questions
 - Purpose: Improve problem-solving, logic, and coding efficiency
 
-> This repository grows over time as I solve more problems on LeetCode and push folders with my C solutions.
+> This repository grows over time as I solve more problems on LeetCode and push folders with my  solutions.
 
 <!-- MANUAL-CONTENT:END -->
 
