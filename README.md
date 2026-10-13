@@ -127,5 +127,6 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
