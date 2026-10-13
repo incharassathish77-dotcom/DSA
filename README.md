@@ -1,10 +1,10 @@
 # DSA Practice Repository
 
-A curated collection of Data Structures and Algorithms practice problems solved in C. This repository is organized by LeetCode topic to make navigation easier and to keep the learning flow structured.
+A curated collection of Data Structures and Algorithms practice problems solved . This repository is organized by LeetCode topic to make navigation easier and to keep the learning flow structured.
 
 ## Overview
 
-- Language: C
+
 - Focus: Algorithmic problem solving
 - Source: LeetCode practice questions
 - Purpose: Improve problem-solving, logic, and coding efficiency
@@ -93,6 +93,6 @@ Click on any topic below to expand the list of problems.
 
 ## Notes
 
-This repository is designed for regular practice and revision. Each folder contains a solution for a specific LeetCode problem with implementation details in C.
+This repository is designed for regular practice and revision. Each folder contains a solution for a specific LeetCode problem with implementation details .
 
 Feel free to explore the directories and use this README as a quick index for problem categories.
