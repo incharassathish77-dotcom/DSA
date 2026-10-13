@@ -1,6 +1,13 @@
-# DSA Practice Repository
+# LeetCode DSA Solutions in C
 
-A curated collection of Data Structures and Algorithms practice problems solved in C. This repository is organized by LeetCode topic to make navigation easier and to keep the learning flow structured.
+A personal collection of LeetCode practice solutions implemented in C. This repository contains short, focused solutions for algorithmic problems I solve while practicing data structures and algorithms.
+
+- Language: C
+- Source: LeetCode
+
+This README contains a manually maintained introduction and an automatically generated problem index below. The index is regenerated each time you push new problem folders to the repository.
+
+<!-- MANUAL-CONTENT:START -->
 
 ## Overview
 
@@ -9,87 +16,101 @@ A curated collection of Data Structures and Algorithms practice problems solved 
 - Source: LeetCode practice questions
 - Purpose: Improve problem-solving, logic, and coding efficiency
 
-## Topics
+> This repository grows over time as I solve more problems on LeetCode and push folders with my C solutions.
 
-Click on any topic below to expand the list of problems.
+<!-- MANUAL-CONTENT:END -->
 
-### Array
+---
+
+## Problem Index (auto-generated)
+
+<!-- AUTO-GENERATED-CONTENT:START -->
+
+Total unique problems solved: 13
+
+### Topics
 
 <details>
 <summary><strong>Array</strong></summary>
 
-- [0001-two-sum](./0001-two-sum)
-- [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock)
-- [0152-maximum-product-subarray](./0152-maximum-product-subarray)
+| Problem | Solution |
+| --- | --- |
+| 1. Two Sum | [View Solution](./0001-two-sum) |
+| 121. Best Time To Buy And Sell Stock | [View Solution](./0121-best-time-to-buy-and-sell-stock) |
+| 152. Maximum Product Subarray | [View Solution](./0152-maximum-product-subarray) |
 
 </details>
-
-### Hash Table
 
 <details>
 <summary><strong>Hash Table</strong></summary>
 
-- [0001-two-sum](./0001-two-sum)
-- [0013-roman-to-integer](./0013-roman-to-integer)
+| Problem | Solution |
+| --- | --- |
+| 1. Two Sum | [View Solution](./0001-two-sum) |
+| 13. Roman To Integer | [View Solution](./0013-roman-to-integer) |
 
 </details>
-
-### Math
 
 <details>
 <summary><strong>Math</strong></summary>
 
-- [0007-reverse-integer](./0007-reverse-integer)
-- [0009-palindrome-number](./0009-palindrome-number)
-- [0013-roman-to-integer](./0013-roman-to-integer)
-- [0258-add-digits](./0258-add-digits)
-- [0412-fizz-buzz](./0412-fizz-buzz)
-- [0728-self-dividing-numbers](./0728-self-dividing-numbers)
-- [1281-subtract-the-product-and-sum-of-digits-of-an-integer](./1281-subtract-the-product-and-sum-of-digits-of-an-integer)
-- [1523-count-odd-numbers-in-an-interval-range](./1523-count-odd-numbers-in-an-interval-range)
-- [2235-add-two-integers](./2235-add-two-integers)
-- [2469-convert-the-temperature](./2469-convert-the-temperature)
+| Problem | Solution |
+| --- | --- |
+| 7. Reverse Integer | [View Solution](./0007-reverse-integer) |
+| 9. Palindrome Number | [View Solution](./0009-palindrome-number) |
+| 13. Roman To Integer | [View Solution](./0013-roman-to-integer) |
+| 258. Add Digits | [View Solution](./0258-add-digits) |
+| 412. Fizz Buzz | [View Solution](./0412-fizz-buzz) |
+| 728. Self Dividing Numbers | [View Solution](./0728-self-dividing-numbers) |
+| 1281. Subtract The Product And Sum Of Digits Of An Integer | [View Solution](./1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| 1523. Count Odd Numbers In An Interval Range | [View Solution](./1523-count-odd-numbers-in-an-interval-range) |
+| 2235. Add Two Integers | [View Solution](./2235-add-two-integers) |
+| 2469. Convert The Temperature | [View Solution](./2469-convert-the-temperature) |
 
 </details>
-
-### Simulation
 
 <details>
 <summary><strong>Simulation</strong></summary>
 
-- [0258-add-digits](./0258-add-digits)
-- [0412-fizz-buzz](./0412-fizz-buzz)
+| Problem | Solution |
+| --- | --- |
+| 258. Add Digits | [View Solution](./0258-add-digits) |
+| 412. Fizz Buzz | [View Solution](./0412-fizz-buzz) |
 
 </details>
-
-### Number Theory
 
 <details>
 <summary><strong>Number Theory</strong></summary>
 
-- [0258-add-digits](./0258-add-digits)
+| Problem | Solution |
+| --- | --- |
+| 258. Add Digits | [View Solution](./0258-add-digits) |
 
 </details>
-
-### Dynamic Programming
 
 <details>
 <summary><strong>Dynamic Programming</strong></summary>
 
-- [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock)
-- [0152-maximum-product-subarray](./0152-maximum-product-subarray)
+| Problem | Solution |
+| --- | --- |
+| 121. Best Time To Buy And Sell Stock | [View Solution](./0121-best-time-to-buy-and-sell-stock) |
+| 152. Maximum Product Subarray | [View Solution](./0152-maximum-product-subarray) |
 
 </details>
-
-### String
 
 <details>
 <summary><strong>String</strong></summary>
 
-- [0013-roman-to-integer](./0013-roman-to-integer)
-- [0412-fizz-buzz](./0412-fizz-buzz)
+| Problem | Solution |
+| --- | --- |
+| 13. Roman To Integer | [View Solution](./0013-roman-to-integer) |
+| 412. Fizz Buzz | [View Solution](./0412-fizz-buzz) |
 
 </details>
+
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+---
 
 ## Notes
 
