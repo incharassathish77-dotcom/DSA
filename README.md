@@ -9,19 +9,19 @@ A personal collection of LeetCode practice solutions. This repository contains f
 - Purpose: Improve problem-solving, logic, and coding efficiency
 
 ## Topics
-### Array
+ Array
 
-### Hash Table
+ Hash Table
 
-### Math
+ Math
 
-### Simulation
+ Simulation
 
-### Number Theory
+ Number Theory
 
-### Dynamic Programming
+ Dynamic Programming
 
-### String
+ String
 
 ## Notes
 
