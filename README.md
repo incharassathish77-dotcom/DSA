@@ -117,3 +117,15 @@ Total unique problems solved: 13
 This repository is designed for regular practice and revision. Each folder contains a solution for a specific LeetCode problem with implementation details .
 
 Feel free to explore the directories and use this README as a quick index for problem categories.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+<!---LeetCode Topics End-->
