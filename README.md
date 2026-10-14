@@ -28,3 +28,27 @@ A personal collection of LeetCode practice solutions. This repository contains f
 This repository is designed for regular practice and revision. Each folder contains a solution for a specific LeetCode problem with implementation details .
 
 Feel free to explore the directories and use this README as a quick index for problem categories.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
