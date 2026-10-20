@@ -38,6 +38,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/incharassathish77-dotcom/DSA/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/incharassathish77-dotcom/DSA/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
 | ------- |
