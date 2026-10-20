@@ -58,6 +58,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Greedy
@@ -75,5 +76,10 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
