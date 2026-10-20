@@ -92,6 +92,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/incharassathish77-dotcom/DSA/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
