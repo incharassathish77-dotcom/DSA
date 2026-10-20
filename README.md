@@ -58,6 +58,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -83,4 +84,8 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
