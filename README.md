@@ -59,6 +59,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Greedy
