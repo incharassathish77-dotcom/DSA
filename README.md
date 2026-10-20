@@ -36,6 +36,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Greedy
 |  |
 | ------- |
