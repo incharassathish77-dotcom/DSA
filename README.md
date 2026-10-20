@@ -36,6 +36,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -98,4 +99,8 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
