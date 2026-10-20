@@ -68,4 +68,12 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
