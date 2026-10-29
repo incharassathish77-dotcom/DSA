@@ -34,6 +34,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
@@ -127,4 +128,12 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/incharassathish77-dotcom/DSA/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
