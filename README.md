@@ -41,6 +41,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -123,6 +124,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
