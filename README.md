@@ -40,6 +40,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -61,6 +62,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
