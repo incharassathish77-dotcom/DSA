@@ -1,0 +1,18 @@
+int pivotIndex(int* nums, int numsSize) {
+    int sum=0;
+    int lsum=0;
+    for(int i=0;i<numsSize;i++){
+        sum+=nums[i];
+    }
+    for(int i=0;i<numsSize;i++){
+        int rsum=sum-lsum-nums[i];
+
+        if(lsum==rsum){
+            return i;
+        }
+        lsum+=nums[i];
+    }
+    return -1;
+
+    
+}
