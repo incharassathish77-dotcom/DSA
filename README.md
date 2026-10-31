@@ -122,6 +122,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
@@ -140,4 +141,5 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
