@@ -78,6 +78,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
