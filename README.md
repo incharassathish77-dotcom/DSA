@@ -34,6 +34,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
