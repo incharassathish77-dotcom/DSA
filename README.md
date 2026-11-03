@@ -100,6 +100,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0066-plus-one](https://github.com/incharassathish77-dotcom/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
@@ -130,6 +131,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0058-length-of-last-word](https://github.com/incharassathish77-dotcom/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/incharassathish77-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
