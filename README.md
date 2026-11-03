@@ -83,6 +83,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0007-reverse-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
@@ -151,11 +152,13 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
