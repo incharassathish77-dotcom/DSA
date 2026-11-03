@@ -70,6 +70,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/incharassathish77-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
 ## Sorting
@@ -101,6 +102,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
@@ -123,6 +125,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -187,4 +190,8 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
