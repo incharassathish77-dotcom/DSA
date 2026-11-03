@@ -37,6 +37,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/incharassathish77-dotcom/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
@@ -62,6 +63,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0015-3sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/incharassathish77-dotcom/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
@@ -75,6 +77,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0015-3sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/incharassathish77-dotcom/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
