@@ -39,6 +39,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0027-remove-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/incharassathish77-dotcom/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/incharassathish77-dotcom/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0007-reverse-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/incharassathish77-dotcom/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
