@@ -98,6 +98,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0007-reverse-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/incharassathish77-dotcom/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -125,12 +126,14 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/incharassathish77-dotcom/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/incharassathish77-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
