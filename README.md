@@ -134,6 +134,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/incharassathish77-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/incharassathish77-dotcom/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/incharassathish77-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -197,4 +198,12 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/incharassathish77-dotcom/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/incharassathish77-dotcom/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
