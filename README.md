@@ -109,6 +109,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
@@ -212,4 +213,24 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/incharassathish77-dotcom/DSA/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
