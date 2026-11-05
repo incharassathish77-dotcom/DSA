@@ -48,6 +48,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0075-sort-colors](https://github.com/incharassathish77-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
@@ -106,6 +108,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
@@ -129,6 +132,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0013-roman-to-integer](https://github.com/incharassathish77-dotcom/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -159,6 +163,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/incharassathish77-dotcom/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 ## Prefix Sum
@@ -194,6 +199,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
