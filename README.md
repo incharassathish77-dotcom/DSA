@@ -86,6 +86,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -137,6 +138,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0169-majority-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -148,6 +150,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0125-valid-palindrome](https://github.com/incharassathish77-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/incharassathish77-dotcom/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
