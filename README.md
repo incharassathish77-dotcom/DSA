@@ -52,6 +52,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
@@ -76,6 +77,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0202-happy-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
@@ -140,6 +143,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -210,6 +214,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | ------- |
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
