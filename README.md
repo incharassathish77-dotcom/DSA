@@ -55,6 +55,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
+| [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -125,6 +126,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0441-arranging-coins](https://github.com/incharassathish77-dotcom/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
