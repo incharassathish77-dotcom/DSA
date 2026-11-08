@@ -122,6 +122,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/incharassathish77-dotcom/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/incharassathish77-dotcom/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -222,6 +223,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/incharassathish77-dotcom/DSA/tree/master/0441-arranging-coins) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
