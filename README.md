@@ -121,6 +121,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0326-power-of-three](https://github.com/incharassathish77-dotcom/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/incharassathish77-dotcom/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -160,11 +161,13 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/incharassathish77-dotcom/DSA/tree/master/0415-add-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/incharassathish77-dotcom/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/incharassathish77-dotcom/DSA/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/incharassathish77-dotcom/DSA/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
