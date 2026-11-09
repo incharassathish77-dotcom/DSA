@@ -53,6 +53,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
@@ -79,6 +80,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0283-move-zeroes](https://github.com/incharassathish77-dotcom/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/incharassathish77-dotcom/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -150,6 +153,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0242-valid-anagram](https://github.com/incharassathish77-dotcom/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -226,6 +230,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0035-search-insert-position](https://github.com/incharassathish77-dotcom/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/incharassathish77-dotcom/DSA/tree/master/0441-arranging-coins) |
 ## Floyd's Cycle Finding Algorithm
 |  |
