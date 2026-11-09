@@ -55,6 +55,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
@@ -155,6 +156,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
