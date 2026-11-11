@@ -139,6 +139,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Greedy
@@ -226,6 +227,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -267,6 +270,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -275,6 +279,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
 ## Counting
 |  |
 | ------- |
