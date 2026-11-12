@@ -62,6 +62,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
+| [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -107,6 +108,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -171,6 +173,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -209,6 +212,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/incharassathish77-dotcom/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
