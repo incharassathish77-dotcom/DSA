@@ -59,6 +59,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -103,6 +104,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -146,6 +148,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -288,4 +291,8 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
