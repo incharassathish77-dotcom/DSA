@@ -60,6 +60,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/incharassathish77-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -105,6 +106,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0414-third-maximum-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -168,6 +170,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/incharassathish77-dotcom/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -287,6 +290,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -295,4 +299,8 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
