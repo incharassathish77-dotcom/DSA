@@ -67,6 +67,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/incharassathish77-dotcom/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/incharassathish77-dotcom/DSA/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/incharassathish77-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -113,6 +114,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0628-maximum-product-of-three-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/incharassathish77-dotcom/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/incharassathish77-dotcom/DSA/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -179,6 +181,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/incharassathish77-dotcom/DSA/tree/master/0888-fair-candy-swap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/incharassathish77-dotcom/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -260,6 +263,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0349-intersection-of-two-arrays](https://github.com/incharassathish77-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/incharassathish77-dotcom/DSA/tree/master/0441-arranging-coins) |
+| [0888-fair-candy-swap](https://github.com/incharassathish77-dotcom/DSA/tree/master/0888-fair-candy-swap) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
