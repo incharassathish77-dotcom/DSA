@@ -62,6 +62,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/incharassathish77-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -108,6 +109,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0455-assign-cookies](https://github.com/incharassathish77-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/incharassathish77-dotcom/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/incharassathish77-dotcom/DSA/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
@@ -143,6 +145,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0492-construct-the-rectangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/incharassathish77-dotcom/DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/incharassathish77-dotcom/DSA/tree/master/1025-divisor-game) |
