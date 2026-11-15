@@ -48,6 +48,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0088-merge-sorted-array](https://github.com/incharassathish77-dotcom/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/incharassathish77-dotcom/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/incharassathish77-dotcom/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/incharassathish77-dotcom/DSA/tree/master/0217-contains-duplicate) |
@@ -242,6 +243,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 | [0070-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/incharassathish77-dotcom/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/incharassathish77-dotcom/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/incharassathish77-dotcom/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/incharassathish77-dotcom/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/incharassathish77-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
