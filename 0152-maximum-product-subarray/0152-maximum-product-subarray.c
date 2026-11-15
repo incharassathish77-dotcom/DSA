@@ -5,28 +5,28 @@ int maxProduct(int* nums, int numsSize) {
     
     int minProd = nums[0];
     int maxProd = nums[0];
-    int result = nums[0];  
+    int result = nums[0];
     
     for (int i = 1; i < numsSize; i++) {
-        int currentNum = nums[i];
+        int Num = nums[i];
         
-        int Min = minProd * currentNum;
-        int Max = maxProd * currentNum;
+        int Min = minProd * Num;
+        int Max = maxProd * Num;
         
         int newMin = Min;
         if (Max < newMin){
            newMin = Max;
         }
-        if (currentNum < newMin){
-             newMin = currentNum;
+        if (Num < newMin){
+             newMin = Num;
         }
         
         int newMax = Min;
         if (Max > newMax){
              newMax = Max;
         }
-        if (currentNum > newMax){
-             newMax = currentNum;
+        if (Num > newMax){
+             newMax = Num;
         }
         
         minProd = newMin;
