@@ -276,6 +276,7 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/incharassathish77-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/incharassathish77-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -320,4 +321,16 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/incharassathish77-dotcom/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/incharassathish77-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/incharassathish77-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/incharassathish77-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
