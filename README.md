@@ -30,3 +30,11 @@ This repository is designed for regular practice and revision. Each folder conta
 Feel free to explore the directories and use this README as a quick index for problem categories.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
