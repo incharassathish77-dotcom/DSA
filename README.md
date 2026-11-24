@@ -37,4 +37,12 @@ Feel free to explore the directories and use this README as a quick index for pr
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/incharassathish77-dotcom/DSA/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/incharassathish77-dotcom/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
